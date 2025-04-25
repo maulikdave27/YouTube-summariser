@@ -101,13 +101,11 @@ Clears session and redirects to login.
 
 ---
 
-## 📜 License
-[MIT](LICENSE)
 
----
 
 ## 👨‍💻 Author
-Created by [Maulik](https://github.com/your-username)
-
+Created by [Maulik](https://github.com/maulikdave27)
+[Titiksha](https://github.com/your-username)
+[Aditi](https://github.com/your-username)
 ---
 
